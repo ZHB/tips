@@ -28,6 +28,7 @@
 - Twig
   - [Loop with rows](doc/twig/loop-with-rows.md)
   - [Locales in sf app](doc/twig/locales.md)
+  - [Forms](doc/twig/bootstrap-forms.md)
 - Bootstrap
   - [Symfony flashbag](doc/bootstrap/flashbag-symfony.md)
   - [Use ajax in popover](doc/bootstrap/use-ajax-in-popover.md)
